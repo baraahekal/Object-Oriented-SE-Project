@@ -1,0 +1,19 @@
+{
+    "name": "baraahekal/mvc",
+    "autoload": {
+        "psr-4": {
+            "Baraahekal\\Mvc\\": "src/",
+            "app\\": "./"
+        }
+    },
+    "authors": [
+        {
+            "name": "baraahekal",
+            "email": "119141498+baraahekal@users.noreply.github.com"
+        }
+    ],
+    "require": {
+        "vlucas/phpdotenv": "^5.5",
+      "ext-pdo": "*"
+    }
+}
