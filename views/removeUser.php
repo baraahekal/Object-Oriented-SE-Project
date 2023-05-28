@@ -1,0 +1,1 @@
+<div class="alert alert-danger text-center"> delete sucess  </div>
